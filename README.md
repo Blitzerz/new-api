@@ -3,3 +3,7 @@
 `npm install`
 
 `npm run`
+
+# To run test
+
+`npm run test`
